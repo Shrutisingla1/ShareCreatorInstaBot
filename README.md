@@ -3,6 +3,7 @@ Build instructions for Share- Creators
 
 
 Enter username and password in the python variables:
+
 2. sudo python3 sharecreator_bot.py 
 
 

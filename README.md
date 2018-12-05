@@ -1,5 +1,8 @@
 Build instructions for Share- Creators
 1. pip install -r requirements.txt
+
+
+Enter username and password in the python variables:
 2. sudo python3 sharecreator_bot.py 
 
 
